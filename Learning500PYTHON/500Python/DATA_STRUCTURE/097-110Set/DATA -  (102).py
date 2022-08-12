@@ -1,0 +1,6 @@
+set1 = set()
+str1 = input('str1=')
+str2 = input('str2=')
+str3 = input('str3=')
+set1.update({str1, str2, str3})
+print(set1)

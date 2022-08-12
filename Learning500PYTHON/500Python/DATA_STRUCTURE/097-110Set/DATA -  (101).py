@@ -1,0 +1,8 @@
+set1 = set()
+str1 = input('str1=')
+str2 = input('str2=')
+str3 = input('str3=')
+set1.add(str1)
+set1.add(str2)
+set1.add(str3)
+print(set1)
